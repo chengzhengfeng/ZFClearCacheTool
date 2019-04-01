@@ -1,0 +1,6 @@
+framework module ZFClearCacheTool {
+  umbrella header "ZFClearCacheTool-umbrella.h"
+
+  export *
+  module * { export * }
+}

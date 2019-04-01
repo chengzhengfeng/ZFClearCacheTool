@@ -1,0 +1,16 @@
+PODS:
+  - ZFClearCacheTool (0.1.0)
+
+DEPENDENCIES:
+  - ZFClearCacheTool (from `../`)
+
+EXTERNAL SOURCES:
+  ZFClearCacheTool:
+    :path: ../
+
+SPEC CHECKSUMS:
+  ZFClearCacheTool: c1cceab82ce2256dc63da4647139540248fc51cf
+
+PODFILE CHECKSUM: 0042280566c2b80c24e553314f73c5c8368583e5
+
+COCOAPODS: 1.4.0
